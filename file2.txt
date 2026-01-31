@@ -1,0 +1,3 @@
+Git branching lets you create independent branches from the main project to develop features or fix bugs safely.
+Each branch can be worked on without disturbing the stable code.
+Later, the branch can be merged back into the main branch after testing and review.
