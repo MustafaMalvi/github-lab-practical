@@ -1,0 +1,3 @@
+GitHub collaboration allows multiple developers to work on the same project using shared repositories.
+Team members contribute through branches and submit changes via pull requests for review.
+Issues, comments, and code reviews help coordinate work and maintain code quality.
